@@ -62,17 +62,27 @@ Server will start at: `http://localhost:5000`
 
 ## ⚡ Folder Structure
 ```
-📂 farm-management-software
-├── 📂 frontend          # Frontend Code (HTML, CSS, JS)
-├── 📂 backend           # Backend Code (Node.js, Express)
-├── 📂 database          # Database Config (Firebase/MySQL)
-├── 📂 public            # Static Files
-├── 📂 models            # Data Models (User, Farm, Crop)
-├── 📂 controllers       # Business Logic (API Controllers)
-├── 📂 routes            # API Routes Definitions
-├── 📜 .env              # Environment Variables
-├── 📜 package.json      # Node Dependencies
-├── 📜 README.md         # Documentation
+📂 FARMORA 2K25
+├── 📂 project
+│   ├── 📂 .proj
+│   ├── 📂 dist
+│   ├── 📂 server
+│   ├── 📂 src
+│   ├── 📂 supabase
+│   ├── 📜 .env
+│   ├── 📜 .env.example
+│   ├── 📜 .gitignore
+│   ├── 📜 eslint.config.js
+│   ├── 📜 index.html
+│   ├── 📜 package-lock.json
+│   ├── 📜 package.json
+│   ├── 📜 postcss.config.js
+│   ├── 📜 tailwind.config.js
+│   ├── 📜 tsconfig.app.json
+│   ├── 📜 tsconfig.json
+│   ├── 📜 tsconfig.node.json
+│   ├── 📜 vite.config.ts
+│   ├── 📜 README.md
 ```
 
 ---

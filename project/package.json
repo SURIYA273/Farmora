@@ -12,11 +12,8 @@
     "server": "node server/index.js",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
-<<<<<<< HEAD
   },
-=======
-    },
->>>>>>> ca220adc8a2e5b553cea409557932d69110b9e14
+
   "dependencies": {
     "@supabase/auth-ui-react": "^0.4.7",
     "@supabase/auth-ui-shared": "^0.1.8",

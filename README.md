@@ -3,6 +3,7 @@
 🚜 A **Farm Management Software** built using **HTML, CSS, JavaScript, Node.js, Express.js, and Firebase/MySQL** to help farmers manage their farms efficiently. 
 
 ## 📌 Features
+
 ✅ User Registration & Authentication  
 ✅ Farm Profile Management  
 ✅ Live Weather & Market Updates  
@@ -16,6 +17,7 @@
 ---
 
 ## 🛠️ Technologies Used
+
 - **Frontend**: HTML, CSS, JavaScript  
 - **Backend**: Node.js, Express.js  
 - **Database**: Firebase / MySQL  
@@ -29,18 +31,22 @@
 
 ### **1️⃣ Clone the Repository**
 ```sh
+
 git clone https://github.com/yourusername/farm-management-software.git
 cd farm-management-software
 ```
 
 ### **2️⃣ Install Dependencies**
 ```sh
+
 npm install
 ```
 
 ### **3️⃣ Setup Environment Variables**
+
 Create a `.env` file in the root directory and add:
 ```env
+
 PORT=5000
 DB_URL=your_database_url
 FIREBASE_CONFIG=your_firebase_config
@@ -50,17 +56,21 @@ MARKET_DATA_API_KEY=your_api_key
 ```
 
 ### **4️⃣ Run the Server**
+
 ```sh
 npm start
 ```
+
 Server will start at: `http://localhost:5000`
 
 ### **5️⃣ Open in Browser**
+
 - Navigate to `http://localhost:5000` in your browser to access the app.
 
 ---
 
 ## ⚡ Folder Structure
+
 ```
 📂 FARMORA 2K25
 ├── 📂 project
@@ -83,11 +93,13 @@ Server will start at: `http://localhost:5000`
 │   ├── 📜 tsconfig.node.json
 │   ├── 📜 vite.config.ts
 │   ├── 📜 README.md
+
 ```
 
 ---
 
 ## 🛠️ API Endpoints
+
 | Method | Endpoint | Description |
 |--------|----------|-------------|
 | `GET`  | `/weather` | Fetch weather updates |
@@ -100,6 +112,7 @@ Server will start at: `http://localhost:5000`
 ---
 
 ## 📌 Future Improvements
+
 ✅ AI-based Crop Health Prediction  
 ✅ Mobile App Integration  
 ✅ Multi-language Support  
@@ -108,15 +121,8 @@ Server will start at: `http://localhost:5000`
 
 ---
 
-## 📖 Documentation & Tutorials
-- [Project Wiki](https://github.com/yourusername/farm-management-software/wiki)  
-- [API Reference](https://github.com/yourusername/farm-management-software/api-docs)  
-- [Setup Guide](https://github.com/yourusername/farm-management-software/setup-guide)  
-- 🎥 **YouTube Video Explanation**: [Watch Here](https://youtu.be/SMpamj1NErM?si=ylIgVTfmc4dqkF6x)  
-
----
-
 ## 🙌 Contribution
+
 Pull requests are welcome! Feel free to open an issue for feature requests.  
 
 ### How to Contribute:
@@ -129,6 +135,7 @@ Pull requests are welcome! Feel free to open an issue for feature requests.
 ---
 
 ## 📜 License
+
 This project is licensed under the MIT License.
 
 ---
